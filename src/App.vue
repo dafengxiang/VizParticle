@@ -6,7 +6,7 @@
  * @LastEditors: wangfengxiang
 -->
 <template>
-  <div>项目入口</div>
+    <div>项目入口</div>
 </template>
 
 <script setup lang="ts"></script>
